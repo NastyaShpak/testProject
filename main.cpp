@@ -25,7 +25,6 @@ void printVec(vector<T> v)
 	{
 		cout << el << " ";
 	}
-	cout << endl;
 }
 bool isEven(int a)
 {
@@ -198,3 +197,4 @@ void main()
 // comment git
 
 //25.08.2019
+//hello from nastya
